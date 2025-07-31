@@ -1,4 +1,4 @@
-<h2> Implementing: <a href="https://www.sciencedirect.com/science/article/pii/S0925231220316520">Deep residual transfer learning for automatic diagnosis and grading of diabetic retinopathy</a>(using PyTorch)</h2><br><br>
+<h2> Reproducing: <a href="https://www.sciencedirect.com/science/article/pii/S0925231220316520">Deep residual transfer learning for automatic diagnosis and grading of diabetic retinopathy</a>(using PyTorch)</h2><br><br>
 In previous implementations involving IDRiD, data imbalance and overfitting are major problems associated with low test accuracy. This paper introduces comprehensive methods to address these issues. Although the original paper was implemented on the MESSIDOR dataset, our study uses the IDRiD dataset and achieves <b>superior results</b>. Let's break down the steps: <br>
 <h3>Pre-Processing</h3>
 1) Centre cropping images to 900*900<br>
